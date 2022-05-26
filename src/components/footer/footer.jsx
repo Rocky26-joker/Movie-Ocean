@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="p-2 text-white absolute left-0 w-full bg-black text-center">
         Made by{" "}
         <a
-          href="https://sangram.netlify.app/"
+          href="https://SangramRout.netlify.app/"
           target="_blank"
           rel="noreferrer"
           className="hover:text-purple-900"
