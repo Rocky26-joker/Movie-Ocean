@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1000 332.6504"
+   version="1.1"
+   id="svg114"
+   sodipodi:docname="FOXFamilyMovies.svg"
+   width="1000"
+   height="332.65039"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>FOXFamilyMovies</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview116"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="540.61909"
+     inkscape:cy="434.42636"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg114" />
+  <defs
+     id="defs46">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient865">
+      <stop
+         style="stop-color:#82dfb5;stop-opacity:1"
+         offset="0"
+         id="stop861" />
+      <stop
+         id="stop4631"
+         offset="0.45552683"
+         style="stop-color:#caec8f;stop-opacity:1" />
+      <stop
+         style="stop-color:#eaf27e;stop-opacity:1"
+         offset="1"
+         id="stop863" />
+    </linearGradient>
+    <style
+       id="style2">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{clip-path:url(#clip-path-2);}.cls-4{clip-path:url(#clip-path-3);}.cls-5{clip-path:url(#clip-path-4);}.cls-6{clip-path:url(#clip-path-5);}.cls-7{clip-path:url(#clip-path-6);}.cls-8{clip-path:url(#clip-path-7);}.cls-9{clip-path:url(#clip-path-8);}.cls-10{clip-path:url(#clip-path-9);}.cls-11{clip-path:url(#clip-path-10);}.cls-12{clip-path:url(#clip-path-11);}.cls-13{clip-path:url(#clip-path-12);}.cls-14{clip-path:url(#clip-path-13);}.cls-15{clip-path:url(#clip-path-14);}</style>
+    <clipPath
+       id="clip-path">
+      <path
+         class="cls-1"
+         d="m 78.94,7.6 v 1.22 h -2.62 v 5.33 h 2.62 v 18.13 h 7 V 14.15 h 3 V 8.82 H 86 V 7.89 A 2,2 0 0 1 88.11,5.7 h 0.8 V 0.41 h -1 c -3.43,0 -9,0.59 -9,7.19 z"
+         id="path4"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-2">
+      <rect
+         class="cls-1"
+         x="76.32"
+         y="0.41"
+         width="12.59"
+         height="31.860001"
+         id="rect7"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-3">
+      <path
+         class="cls-1"
+         d="M 101.81,26.53 A 5.85,5.85 0 0 1 96,20.61 a 5.8501368,5.8501368 0 1 1 11.7,-0.08 5.79,5.79 0 0 1 -5.87,6 z m 5.87,-15.21 h -0.08 c -0.85,-1.44 -3,-3.3 -6.85,-3.3 C 94.5,8 89,12.84 89,20.53 c 0,6.72 4.35,12.55 11.79,12.55 2.75,0 5.66,-1.06 6.85,-3.34 h 0.08 v 2.54 h 7 V 8.82 h -7 v 2.5 z"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-4">
+      <rect
+         class="cls-1"
+         x="88.959999"
+         y="8.0200005"
+         width="25.73"
+         height="25.059999"
+         id="rect13"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-5">
+      <path
+         class="cls-1"
+         d="M 145.26,8 A 8.52,8.52 0 0 0 137.82,12.18 7.33,7.33 0 0 0 131.06,8 c -4.4,0 -5.92,2.32 -6.47,3.3 h -0.08 V 8.82 H 118 v 23.46 h 7 V 19.81 c 0,-1.39 0,-5.2 4,-5.2 3.51,0 3.51,3.64 3.51,4.9 v 12.77 h 7 V 19.47 c 0,-1.31 0,-4.86 3.89,-4.86 3.59,0 3.59,3.3 3.59,5.2 v 12.47 h 7 V 19.47 c 0,-5.19 -0.34,-6.76 -2.53,-9.08 A 8.49,8.49 0 0 0 145.26,8 Z"
+         id="path16"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-6">
+      <rect
+         class="cls-1"
+         x="117.96"
+         y="8.0200005"
+         width="36"
+         height="24.26"
+         id="rect19"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-7">
+      <polygon
+         class="cls-1"
+         points="164.11,8.82 157.1,8.82 157.1,32.28 164.11,32.28 "
+         id="polygon22"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-8">
+      <rect
+         class="cls-1"
+         x="157.10001"
+         y="8.8199997"
+         width="7.0100002"
+         height="23.450001"
+         id="rect25"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-9">
+      <polygon
+         class="cls-1"
+         points="164.11,1.02 157.1,1.02 157.1,6.33 164.11,6.33 "
+         id="polygon28"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-10">
+      <rect
+         class="cls-1"
+         x="157.10001"
+         y="1.02"
+         width="7.0100002"
+         height="5.3099999"
+         id="rect31"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-11">
+      <polygon
+         class="cls-1"
+         points="174.26,1.02 167.24,1.02 167.24,32.28 174.26,32.28 "
+         id="polygon34"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-12">
+      <rect
+         class="cls-1"
+         x="167.24001"
+         y="1.02"
+         width="7.0100002"
+         height="31.25"
+         id="rect37"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-13">
+      <polygon
+         class="cls-1"
+         points="188,22.43 183.31,8.82 175.83,8.82 184.53,31.09 180.81,40.09 188.25,40.09 200,8.82 192.56,8.82 188.08,22.43 "
+         id="polygon40"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-14">
+      <rect
+         class="cls-1"
+         x="175.83"
+         y="8.8199997"
+         width="24.17"
+         height="31.27"
+         id="rect43"
+         style="fill:none" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient867"
+       x1="457.44589"
+       y1="63.782997"
+       x2="915.59985"
+       y2="113.2096"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient4701"
+       gradientUnits="userSpaceOnUse"
+       x1="457.44589"
+       y1="63.782997"
+       x2="915.59985"
+       y2="113.2096"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient4703"
+       gradientUnits="userSpaceOnUse"
+       x1="457.44589"
+       y1="63.782997"
+       x2="915.59985"
+       y2="113.2096"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient4713"
+       gradientUnits="userSpaceOnUse"
+       x1="457.44589"
+       y1="63.782997"
+       x2="915.59985"
+       y2="113.2096"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient4715"
+       gradientUnits="userSpaceOnUse"
+       x1="457.44589"
+       y1="63.782997"
+       x2="915.59985"
+       y2="113.2096"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient4717"
+       gradientUnits="userSpaceOnUse"
+       x1="457.44589"
+       y1="63.782997"
+       x2="915.59985"
+       y2="113.2096"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient4719"
+       gradientUnits="userSpaceOnUse"
+       x1="457.44589"
+       y1="63.782997"
+       x2="915.59985"
+       y2="113.2096"
+       spreadMethod="pad" />
+  </defs>
+  <title
+     id="title48">FOXFamilyMovies</title>
+  <g
+     id="g4664"
+     transform="matrix(1.0002273,0,0,1.0002273,0,-1.909906e-4)">
+    <g
+       transform="matrix(5,0,0,5,0,-2.05)"
+       data-name="Layer 2"
+       id="Layer_2">
+      <g
+         style="display:inline"
+         data-name="Layer 1"
+         id="Layer_1-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path50"
+           d="m 51.63,59.93 c 5.65,0 8.38,-5.14 8.38,-9.14 0,-4 -2.73,-9.23 -8.46,-9.23 -5.55,0 -8.55,4.72 -8.55,9.1 0,4.81 3.24,9.27 8.59,9.27 z M 51.5,34.57 a 16.18,16.18 0 1 1 0,32.35 16.07,16.07 0 0 1 -16.43,-15.79 17.55,17.55 0 0 1 1.23,-6.66 16.19,16.19 0 0 1 15.2,-9.9 z" />
+        <polygon
+           id="polygon52"
+           points="74.05,35.16 80.33,57.02 80.41,57.02 86.73,35.16 94.94,35.16 84.5,66.33 76.28,66.33 65.88,35.16 " />
+        <polygon
+           id="polygon54"
+           points="96.5,35.16 104.46,35.16 104.46,66.33 96.5,66.33 " />
+        <polygon
+           id="polygon56"
+           points="115.31,47 124.71,47 124.71,53.99 115.31,53.99 115.31,59.34 125,59.34 125,66.33 107.69,66.33 107.69,35.16 125,35.16 125,42.15 115.31,42.15 " />
+        <path
+           inkscape:connector-curvature="0"
+           id="path58"
+           d="m 140.85,44.26 c -0.16,-1 -0.42,-3 -2.86,-3 a 2.6,2.6 0 0 0 -2.74,2.44 c 0,1.85 0.84,2.23 6.45,4.76 5.81,2.54 7.3,5.28 7.3,8.9 0,4.55 -2.62,9.56 -10.87,9.56 -9,0 -11.25,-5.89 -11.25,-9.9 V 56 h 7.92 c 0,3.63 2.23,4.26 3.24,4.26 a 3,3 0 0 0 3,-3 c 0,-2.07 -1.31,-2.57 -6.11,-4.59 -2.19,-0.89 -7.63,-3.08 -7.63,-8.94 0,-5.86 5.69,-9.18 10.91,-9.18 a 11.11,11.11 0 0 1 8.43,3.54 9.39,9.39 0 0 1 2.06,6.15 z" />
+        <polygon
+           id="polygon60"
+           points="0,52.37 0,66.33 11.63,66.33 " />
+        <polygon
+           id="polygon62"
+           points="8.3,35.16 0,35.16 13.96,66.33 19.01,66.33 25.39,52.01 25.4,66.33 32.94,66.33 32.94,35.16 24.64,35.16 16.51,54.38 16.47,54.54 16.43,54.38 " />
+        <polygon
+           id="polygon64"
+           points="8.9,9.56 8.9,13.65 17.51,13.65 17.51,22.21 8.83,22.21 8.83,32.31 0,32.31 0,0.98 18.89,0.98 19.47,9.56 " />
+        <polygon
+           id="polygon66"
+           points="58.8,7.78 54.94,1.03 45.16,1.03 53.91,16.14 44.65,32.31 54.15,32.31 58.68,24.39 63.27,32.31 73.05,32.31 63.6,16.03 72.18,1.03 62.73,1.03 " />
+        <path
+           inkscape:connector-curvature="0"
+           id="path68"
+           d="M 36.87,23 V 10.44 A 2.77,2.77 0 0 0 34.22,7.73 2.67,2.67 0 0 0 31.69,10.44 V 22.93 A 2.57,2.57 0 0 0 34.23,25.52 2.63,2.63 0 0 0 36.87,23 Z M 19.23,16.71 a 15,15 0 1 1 29.9,0 15,15 0 1 1 -29.9,0 z" />
+      </g>
+    </g>
+    <g
+       id="text71"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:211.02716064px;line-height:1.25;font-family:'ITC Avant Garde Gothic Std';-inkscape-font-specification:'ITC Avant Garde Gothic Std weight=281';letter-spacing:-7.1500001px;word-spacing:0px;display:inline;opacity:1;fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:5.27567959"
+       transform="scale(0.99856835,1.0014337)"
+       aria-label="family">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4606"
+         style="letter-spacing:-9.05000019px;fill:url(#linearGradient4713);fill-opacity:1"
+         d="m 395.39468,159.11467 h 35.03051 V 68.584018 h 14.7719 V 41.994596 h -14.7719 v -4.431571 c 0,-11.184439 8.23006,-11.184439 14.7719,-11.184439 V 1.9067383e-4 c -24.69018,0 -49.80241,2.95438022617 -49.80241,36.92975332617 v 5.064652 H 382.311 v 26.589422 h 13.08368 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4608"
+         style="letter-spacing:-8.65999985px;fill:url(#linearGradient4715);fill-opacity:1"
+         d="m 574.4655,41.994596 h -35.03051 v 12.450602 c -4.6426,-7.174923 -15.40498,-16.460118 -34.60845,-16.460118 -31.23202,0 -58.87658,24.057096 -58.87658,62.46404 0,33.55332 21.7358,62.67507 58.87658,62.67507 13.71676,0 28.27764,-5.27568 34.60845,-16.67115 v 12.66163 h 35.03051 z m -93.48503,58.876574 c 0,-13.294708 8.86314,-30.176881 28.91072,-30.176881 14.7719,0 22.79093,8.23006 26.58942,16.249092 2.3213,4.853625 3.37644,10.129304 2.95438,15.404979 -0.42205,5.27568 -1.89924,10.34033 -4.85362,14.98293 -4.43157,7.17493 -12.02855,13.08369 -24.47915,13.08369 -21.10272,0 -29.12175,-18.57039 -29.12175,-29.33278 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4610"
+         style="letter-spacing:-7.93000031px;fill:url(#linearGradient4701);fill-opacity:1"
+         d="m 591.15514,159.11467 h 35.03051 V 96.861657 c 0,-3.587461 0,-9.918276 2.53233,-15.616009 2.53233,-5.697734 7.38595,-10.340331 17.30423,-10.340331 8.86314,0 13.08368,4.43157 15.40498,9.918276 2.11027,5.275679 2.11027,11.395467 2.11027,14.560874 v 63.730203 h 35.03051 V 95.17344 c 0,-3.376434 0,-9.285195 2.53233,-14.560874 2.32129,-5.275679 7.17492,-9.707249 16.88217,-9.707249 9.07417,0 13.50574,4.009516 15.61601,9.496222 2.3213,5.275679 2.3213,11.606494 2.3213,16.460118 v 62.253013 h 35.03051 V 95.17344 c 0,-25.956341 -1.68822,-33.764346 -12.66163,-45.370839 -9.49623,-9.918277 -22.57991,-11.817521 -30.80997,-11.817521 -12.23957,0 -21.7358,4.43157 -28.69969,10.762385 -3.37644,2.95438 -6.11979,6.541842 -8.44109,10.129303 -2.11027,-4.009516 -4.43157,-7.174923 -6.9639,-9.707249 C 674.7219,40.095351 664.5926,37.98508 656.57356,37.98508 c -12.23957,0 -20.46963,4.009516 -25.53428,8.230059 -5.06465,4.009516 -7.17493,8.230059 -7.17493,8.230059 V 41.994596 h -32.70921 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4612"
+         style="letter-spacing:-9.97999954px;fill:url(#linearGradient4703);fill-opacity:1"
+         d="M 787.65769,29.543993 H 822.6882 V 2.9545709 h -35.03051 z m 0,129.570677 H 822.6882 V 41.994596 h -35.03051 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4614"
+         style="letter-spacing:-5.07999992px;fill:url(#linearGradient4717);fill-opacity:1"
+         d="m 837.8534,159.11467 h 35.03051 V 2.9545709 H 837.8534 Z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4616"
+         style="letter-spacing:-7.1500001px;fill:url(#linearGradient4719);fill-opacity:1;stroke-width:5.27567959"
+         d="m 905.39974,198.15469 h 37.14078 L 1001.2061,41.994596 H 964.06529 L 941.69641,109.94534 917.85034,41.994596 h -37.35181 l 43.4716,111.211314 z" />
+    </g>
+  </g>
+</svg>

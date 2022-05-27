@@ -1,11 +1,21 @@
 .indivisualCard {
   min-width: 180px;
+ 
 }
 
 .topCards {
   overflow: auto;
+  background-color: rgb(137, 199, 181);
 }
 
 .textShadowSmall {
-  text-shadow: 2px 2px 3px black;
+  text-shadow: 2px 2px 3px rgb(216, 34, 34);
+}
+.py-3{
+  background-color: rgb(110, 192, 168);
+}
+.text-sm{
+  font-size: large;
+  font-weight: 600;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
